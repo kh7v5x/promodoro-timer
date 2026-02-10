@@ -14,7 +14,9 @@ Reset functionality
 
 # 🛠️ Tech Stack
 Python
+
 Tkinter – GUI framework
+
 Math – time calculations
 
 # ⏱️ Pomodoro Technique Explained
